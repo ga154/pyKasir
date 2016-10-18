@@ -10,7 +10,7 @@ File kasir.py saat ini masih berupa kerangka saja. Tugas anda adalah melengkapi 
 Daftar Soal dan Tugas
 
 1. Download kerangka program kasir yang telah disediakan di website ini. Pilih **clone or download** di bagian atas kanan berwarna hijau, kemudian klik **Download ZIP**
-2. Buatlah pesan berisi menu sbb: "Scan kode baranag atau ketik tombol 'q' untuk keluar/selesai"
+2. Buatlah pesan berisi menu sbb: "Scan kode barang atau ketik tombol 'q' untuk keluar/selesai"
 3. Tampilkan setiap barang yang telah selesai discan seperti gambar di bawah ini
 
 *Last but not least*, selamat atas Laptop baru kalian. Semoga semakin giat belajar dan berlatih pemrograman. *Be a good programmer and a good muslim*.
